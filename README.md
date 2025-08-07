@@ -3,9 +3,13 @@
 Je suis ravi de partager mon dernier projet : un agent d'intelligence artificielle qui combine Pydantic-AI, le protocole MCP d'Anthropic, et le puissant modèle Llama 3.3 70B via l'infrastructure Groq.  
 
 🔧 Architecture Technique : 
+
 ✅ Pydantic-AI : Framework moderne avec validation de types native 
-✅ Model Context Protocol (MCP) : Le nouveau standard d'interopérabilité IA d'Anthropic 
+
+✅ Model Context Protocol (MCP) : Le nouveau standard d'interopérabilité IA d'Anthropic
+
 ✅ Groq Infrastructure : Performance d'inférence jusqu'à 1660 tokens/seconde 
+
 ✅ Llama 3.3 70B Versatile : Modèle multilingue de Meta optimisé pour les tâches complexes  
 
 💡 Capacités Démontrées :  Récupération automatique de contenu web  Traitement et synthèse intelligente d'informations  Architecture asynchrone pour des performances optimales  Extensibilité via des serveurs MCP modulaires  
